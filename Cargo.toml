@@ -1,0 +1,15 @@
+[package]
+name = "pdfdbg"
+version = "0.0.0"
+edition = "2021"
+authors = ["Tanja <rust@tanja.pw>"]
+description = "This tool is meant to help with debugging PDF files"
+documentation = "https://docs.rs/pdfdbg/latest/pdfdbg"
+homepage = "https://github.com/Tanja-4732/pdfdbg#readme"
+repository = "https://github.com/Tanja-4732/pdfdbg"
+license = "LGPL-3.0-or-later"
+include = ["/src", "/Cargo.toml", "/README.md", "/LICENSE.md"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
